@@ -120,7 +120,7 @@ streamlit run app.py
 ```
 
 
-📌 Future Improvements
+## 📌 Future Improvements
 Faithfulness scoring using answer–context overlap
 
 Token-level attribution
@@ -131,9 +131,10 @@ Automated abstention responses
 
 RAG benchmarking dashboards
 
-👩‍💻 Author
+## 👩‍💻 Author
 Sravani Bandela
 Data Scientist | NLP & GenAI
 GitHub: https://github.com/sravani2003
+
 
 
