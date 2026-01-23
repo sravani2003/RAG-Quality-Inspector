@@ -117,6 +117,7 @@ RAG Quality Inspection Layer
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 📌 Future Improvements
@@ -134,4 +135,5 @@ RAG benchmarking dashboards
 Sravani Bandela
 Data Scientist | NLP & GenAI
 GitHub: https://github.com/sravani2003
+
 
