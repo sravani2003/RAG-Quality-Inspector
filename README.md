@@ -22,7 +22,9 @@ This app inspects the **end-to-end RAG pipeline** by:
 
 ## 🧠 Why This Matters
 
-Most RAG demos stop at *“the answer looks correct”*.  
+*When AI answers questions about health, policy or public services, a confident wrong answer can cause real harm. This tool shows whether an answer is actually grounded in retrieved evidence, or is a hallucination. It's a small step toward AI people can trust.*
+
+Also, most RAG demos stop at *“the answer looks correct”*.  
 This tool goes further by answering:
 
 - ❓ Was retrieval strong or weak?
